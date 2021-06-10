@@ -1,4 +1,4 @@
-package sample;
+package tribonacci.sample;
 
 import org.junit.Assert;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package interview;
+package tribonacci.interview;
 
 import org.junit.Assert;
 import org.junit.Test;
